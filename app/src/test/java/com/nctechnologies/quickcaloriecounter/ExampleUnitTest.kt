@@ -1,4 +1,4 @@
-package com.nctechnologies.gettext
+package com.nctechnologies.quickcaloriecounter
 
 import org.junit.Test
 

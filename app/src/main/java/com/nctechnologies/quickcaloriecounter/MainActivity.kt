@@ -1,4 +1,4 @@
-package com.nctechnologies.gettext
+package com.nctechnologies.quickcaloriecounter
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
